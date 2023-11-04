@@ -19,7 +19,6 @@ Food order page - output
 
 
 
-![Food order Page - output](https://github.com/ra-ghava/Food-order-page/assets/146189602/711620ce-2eaa-4c69-9a0d-b016d4ec73c7)
 
 
 
